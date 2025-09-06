@@ -2,8 +2,6 @@
 
 This Project is part of my **Master’s Thesis** at **Technische Universität Berlin**. The study investigates **forest fire susceptibility** in Brandenburg, Germany, using **machine learning**, **explainable AI (XAI)**, and **climate projections**, while also evaluating the **ecological risks to biodiversity within protected areas**.
 
----
-
 ## Thesis Overview
 
 Forest fires are increasing worldwide due to climate change, threatening ecosystems, biodiversity, and human livelihoods. Brandenburg is one of the most fire-prone regions in Germany, characterized by flammable pine forests and rising temperatures.
@@ -13,8 +11,6 @@ This project addresses:
 -  What are the primary drivers of forest fire susceptibility in Brandenburg?  
 -  Which biodiversity-rich protected areas are most at risk now and in the future?  
 -  How can Explainable AI (XAI) improve the interpretability of fire prediction models?
-
----
 
 ## Methodology
 
@@ -40,8 +36,6 @@ This project addresses:
 - Buffer zone analysis to account for fire spread potential  
 - Exposure trend comparison across **2021 → 2030 → 2050**
 
----
-
 ## Key Results
 
 ### Model Performance
@@ -61,8 +55,6 @@ This project addresses:
 - **24% of protected areas** overlap with high-susceptibility zones  
 - **Special Protection Areas (SPAs)** under the Birds Directive show growing vulnerability
 
----
-
 ## Implications
 
 This work highlights the importance of integrated, adaptive fire management strategies that combine:
@@ -80,14 +72,11 @@ This work highlights the importance of integrated, adaptive fire management stra
 
 The framework developed here can be **replicated in other fire-prone regions** to assess ecological risks under future climate scenarios.
 
----
-
 ## Thesis Document
 
-📥 *Thesis PDF coming soon*  
+ *Thesis PDF coming soon*  
 *Code and data will be added later (pending permissions)*
 
----
 
 ## Author
 
